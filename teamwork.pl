@@ -102,7 +102,7 @@ elsif ($num eq "2") {
       print "\n$bioex[2]\n";
     }
     else {
-      print "Are you mzdd?\n";
+      print "Are you bdzz?\n";
     }
   }
 }
